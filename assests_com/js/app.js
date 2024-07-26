@@ -27,7 +27,7 @@
 // }
 
 var typed = new Typed('.slidingVertical', {
-  strings: [ 'in',' Co.in','Net.in','Org.in','Firm.in' ],
+  strings: [ 'com','com' ],
       typeSpeed: 160,
   smartBackspace: true,
        loop: true
